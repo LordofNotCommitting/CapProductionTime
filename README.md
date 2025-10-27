@@ -1,3 +1,5 @@
+**This mod requires MCM**
+
 This mod cap production time by putting upper production time limit depending on production time of an item.
 
 **Need to restart the game after MCM config setup for this mod to take effect**
