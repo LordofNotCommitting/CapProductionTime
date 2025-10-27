@@ -7,7 +7,7 @@ If you are producing more than X number of item per production, production time 
 **This mod will only effect new production projects and not any ongoing production project.**
 
 i.e if you are producing 40 bandage, and each bandage takes 2 hour to produce.
-If you set "Production Speed Cap" to 10, then instead of (40*2) = 80 hours it will take (10*2) = 20 hours.
+If you set "Production Speed Cap" to 10, then instead of (40x2) = 80 hours it will take (10x2) = 20 hours.
 
 On any item lower than this cap it should not be effected.
 
