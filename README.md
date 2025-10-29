@@ -14,3 +14,6 @@ If you set "Production Speed Cap" to 10, then instead of (40x2) = 80 hours it wi
 On any item lower than this cap it should not be effected.
 
 Given that the special ammos and infinite resources of recycler could not be abused due to the slow production speed, this mod should be gamebreaking enough.
+
+Changelog:
+v1.1, As per NBK_Redspy's suggestion. Instead of chopping off entire ItemProductionSystem.StartMagnumItemProduction with prefix, now only production DurationInHours is modified with postfix. This may make the mod more compatible.
